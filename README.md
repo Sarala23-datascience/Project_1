@@ -16,7 +16,7 @@ This project aims to predict house prices using a machine learning model. The da
 3. Run the Jupyter Notebook to see the results or use the provided script.
 
 ## Results
-The model achieved a Mean Absolute Error (MAE) of median_house_value on the test data.
+The model achieved a Mean Absolute Error (MAE) on the test data.
 
 ## Conclusion
 
